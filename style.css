@@ -1,0 +1,7 @@
+body{
+    background-image:radial-gradient(blue,rgb(0, 187, 255)) ;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
