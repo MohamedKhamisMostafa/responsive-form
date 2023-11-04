@@ -5,3 +5,12 @@ body{
     justify-content: center;
     align-items: center;
 }
+form{
+    background-color: rgb(255, 255, 255 ,0.7);
+    padding: 20px;
+    width: 80%;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
